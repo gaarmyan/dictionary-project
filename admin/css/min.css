@@ -1,0 +1,324 @@
+
+/*body  */
+body{
+font-family: "Droid Arabic Kufi";
+font-size:14px;
+background: #eee;
+}
+
+
+/*end body  */
+/* social*/
+.top{
+  padding: 10px 0px;
+    color: #777;
+    padding-bottom: 0px;
+
+}
+.search{
+margin-top: -5px;
+margin-bottom: -8px;
+}
+#searchw{
+
+  background: #fff;
+  height: 33px;
+  font-size: 14px;
+  width: 200px;
+
+}
+.log{
+  margin-top: 0px;
+}
+.log a{
+  color: #555;
+  font-size: 13px;
+}
+.log a:hover{color: #df691a;}
+.panel{
+  margin-bottom: 0px;
+background-color: #ffffff;
+border: 1px solid transparent;
+border-radius: 0;
+-webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, 0.00);
+box-shadow: 0 0px 0px rgba(0, 0, 0, 0.00);
+}
+
+.panel-default > .panel-heading{
+  background-color: #fff;
+  color: #1ad0f9;
+  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+}
+/* end social*/
+/*cntent*/
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #777;
+    margin-right: -20px;
+}
+.hrt{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top-width: 0px;
+    border-top-style: none;
+    border-top-color: currentcolor;
+    border-top: 1px solid #fff;
+}
+.art-bg{
+  background: #fff;
+  border-left: 10px solid #eee;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+
+}
+.sidebar-bg{
+  padding: 10px 20px;
+  padding-bottom: 10px;
+background: #ffffff;
+border: solid 1px #ecf0f1;
+
+padding-bottom: 15px;
+margin-bottom: 15px;
+}
+.body_post h4{
+  text-align: right;
+color: #1ad0f9;
+padding-bottom: 10px;
+margin-bottom: 10px;
+border-bottom: dotted 1px #e2e6e6;
+}
+
+.navbar-inverse {
+    background: #222;
+    padding-top: 46px;
+    padding: 3px 0px;
+}
+
+.navbar-nav a{
+  font-size: 15px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+    margin-right: -16px;
+}
+.navbar-inverse{background: #222;}
+.title{font-size: 14px;}
+.hrw{
+  margin-top: 20px;
+    margin-bottom: 15px;
+    border: 0;
+    border-top: 1px solid #555;
+}
+.title_head{
+margin-top: 6px;
+margin-bottom: 10px;
+background: #f5f5f5;
+padding: 8px 10px;
+  color: #555;
+
+
+}
+.title_head a{
+  color: #079fb3;
+  line-height: 1.4;
+}
+.title_head a:hover{
+  color: #df691a;
+}
+h3{font-size: 16px;}
+.content{
+
+  line-height: 1.8;
+  margin-bottom: 20px;
+  color: #828181;
+  font-size: 12px;
+}
+.info a{
+  color: #777;
+  font-size: 13px;
+}
+.info i{
+  color: #777;
+  font-size: 13px;
+}
+.info a:hover{
+  color: #df691a;
+}
+/* end content*/
+.about p{
+color: #fff;
+font-size: 13spx;
+background: #111;
+padding: 10px;
+border-radius: 4px;
+font-size: 13px;
+line-height: 1.8;
+}
+
+.headew {
+    font-size: 17px;
+    margin-top: 10px;
+    color: #079fb3;
+    font-family: "Droid Arabic Kufi";
+}
+
+.readmore {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-family: Droid Arabic Kufi;
+    line-height: 1.8em;
+    color: #828181;
+    font-size: 13px;
+}
+.info_post {
+    background: #f5f5f5;
+    padding: 10px;
+}
+.info_post, i, p{
+  color: #777;
+}
+.panel-body{
+  color: #828181;
+font-size: 12px;
+}
+
+.copy {
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+}
+.navbar-inverse {
+    background: #FFFFFF;
+    border-radius: 0px;
+    border: 0;
+}
+
+
+
+/*adminpanel,,,, taibat ba admin panal*/
+
+/*adminpanel,,,, taibat ba admin panal*/
+
+.navbar-brand{
+margin-right: 2px;
+font-size: 30px;
+font-family: "Open Sans", sans-serif;
+
+}
+.navbar-inverse .navbar-brand:hover{color:#444;}
+
+.admin{
+width: 700px;
+margin: 100px auto;
+}
+
+.art-d {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+.welcome{
+width: 100%;
+text-align: center;
+font-family: aryal;
+font-family: "Droid Arabic Kufi";
+font-size: 15px;
+border: 2px solid #cef1c0;
+}
+
+button a{
+  color: #fff;
+  text-decoration: none;
+}
+
+input[type="text"]{
+background-color: #f5f7f7;
+-webkit-transition: all 0.3s;
+border-radius: 0px;
+height: 40px;
+}
+input[type="password"]{
+background-color: #f5f7f7;
+-webkit-transition: all 0.3s;
+border-radius: 0px;
+height: 40px;
+}
+
+input[type="file"]{
+background-color: #f5f7f7;
+-webkit-transition: all 0.3s;
+border-radius: 0px;
+height: 40px;
+}
+.select{
+background-color: #f5f7f7;
+-webkit-transition: all 0.3s;
+border-radius: 0px;
+height: 40px;
+width: 200px;
+}
+
+.textarea{
+background-color: #f5f7f7;
+-webkit-transition: all 0.3s;
+border-radius: 0px;
+height: 40px;
+}
+
+thead{
+font-size: 14px;
+color: #777;
+}
+.error {
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    width: 100%;
+    text-align: center;
+}
+.pagination {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.pagination a{
+
+  line-height: 1.25;
+  color: #2B8ECC;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 2px 10px;
+}
+.pagination li a{
+  color: #555;
+}
+.pagination li a:hover{
+  color: #555;
+}
+.pagination b{
+  color: #777;
+line-height: 1.25;
+color: #fff;
+background-color: #5BC0DE;
+border: 1px solid #ddd;
+padding: 2px 10px;
+
+}
+
+
+/*adminpanel,,,, taibat ba admin panal*/
